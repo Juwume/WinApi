@@ -1,0 +1,16 @@
+﻿  Lab2.2_win32.cpp
+c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(5): warning C4005: RGB: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wingdi.h(1856): note: см. предыдущее определение "RGB"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(181): warning C4005: HANDLE_MSG: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(6): note: см. предыдущее определение "HANDLE_MSG"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(274): warning C4005: HANDLE_WM_CREATE: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(11): note: см. предыдущее определение "HANDLE_WM_CREATE"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(286): warning C4005: HANDLE_WM_DESTROY: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(8): note: см. предыдущее определение "HANDLE_WM_DESTROY"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(376): warning C4005: HANDLE_WM_PAINT: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(12): note: см. предыдущее определение "HANDLE_WM_PAINT"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(510): warning C4005: HANDLE_WM_LBUTTONDOWN: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(10): note: см. предыдущее определение "HANDLE_WM_LBUTTONDOWN"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\windowsx.h(526): warning C4005: HANDLE_WM_RBUTTONDOWN: изменение макроопределения
+  c:\users\makss\source\repos\lab2.2_win32\lab2.2_win32\lab2.2_win32.h(9): note: см. предыдущее определение "HANDLE_WM_RBUTTONDOWN"
+  Lab2.2_win32.vcxproj -> C:\Users\makss\source\repos\Lab2.2_win32\Debug\Lab2.2_win32.exe
