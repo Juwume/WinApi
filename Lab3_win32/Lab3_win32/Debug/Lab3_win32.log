@@ -1,0 +1,6 @@
+﻿  Lab3_win32.cpp
+c:\users\makss\source\repos\lab3_win32\lab3_win32\lab3_win32.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\makss\source\repos\lab3_win32\lab3_win32\lab3_win32.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\makss\source\repos\lab3_win32\lab3_win32\lab3_win32.cpp(109): warning C4101: hdc: неиспользованная локальная переменная
+c:\users\makss\source\repos\lab3_win32\lab3_win32\lab3_win32.cpp(111): warning C4101: ps: неиспользованная локальная переменная
+  Lab3_win32.vcxproj -> C:\Users\makss\source\repos\Lab3_win32\Debug\Lab3_win32.exe
